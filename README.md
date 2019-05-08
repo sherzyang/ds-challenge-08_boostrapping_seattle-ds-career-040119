@@ -1,14 +1,9 @@
 # Bootstrapping Challenge
 
-## Instructions
+## What we did 
 
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
-
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+* We looked at the average length in minutes of our UW classes through the schedules.csv file. 
+* We realized it was probably not the best information source because there are a limited amount of time lengths of classes, thus when we took random samples of our sample, the results were too consistent.  
 
 ## Resources
 
