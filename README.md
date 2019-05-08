@@ -7,4 +7,4 @@
 
 ## Resources
 
-* [Bootstrapping Demo Notebook](bootstrap-demo.ipynb)
+* [Our Bootstrapping Notebook](Jacob_Sherry_Bootstrapping_Challenge.ipynb)
